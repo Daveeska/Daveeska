@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daveeska&label=Profile%20views&color=0e75b6&style=flat" alt="daveeska" /> </p>
 
-- 🔭 I’m currently working on a game engine(https://github.com/Daveeska/yuri)
+- 🔭 I’m currently working on [Yuri](https://github.com/Daveeska/yuri)
 
 - 🌱 I’m currently learning **C++ and SDL2**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Daveeska/](https://github.com/Daveeska/)
+- 👨‍💻 All of my projects are available at [github](https://github.com/Daveeska/)
 
 - 📫 How to reach me **TheDev#5344**
 
