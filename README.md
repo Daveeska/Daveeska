@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Yuri](https://github.com/Daveeska/yuri)
 
-- 🌱 I’m currently learning **C++ and SDL2**
+- 🌱 I’m currently learning **C++ and OpenGL**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Daveeska/)
 
